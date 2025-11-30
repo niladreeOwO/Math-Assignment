@@ -1,0 +1,13 @@
+input:
+
+3 3
+0 2 -3
+-2 0 4
+3 -4 0
+
+output:
+Skew symmetric
+
+0 2 -3 
+-2 0 4 
+3 -4 0 
